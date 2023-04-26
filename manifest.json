@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-copy-markdown-link",
+	"name": "Copy Markdown Link",
+	"author": "Steven Stallion",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "TODO",
+	"isDesktopOnly": false
+}
